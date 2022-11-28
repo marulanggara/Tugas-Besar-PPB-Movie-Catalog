@@ -1,0 +1,22 @@
+{
+    "d": [
+      {
+        "i": {
+          "height": 512,
+          "imageUrl": "/offline.png",
+          "width": 512
+        },
+        "id": "1",
+        "l": "Offline",
+        "q": "Tidak ada koneksi internet.",
+        "qid": "Tidak ada koneksi internet.",
+        "rank": 0,
+        "s": "Tidak ada koneksi internet.",
+        "y": 2022,
+        "yr": "2022"
+      }
+    ],
+    "q": "Treasure Island",
+    "v": 1
+  }
+  

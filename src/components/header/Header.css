@@ -1,0 +1,19 @@
+.header {
+    padding: .5rem 0;
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+a>span {
+    margin: 0 30px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    color: white;
+}
+
+a>span:hover {
+    color: rgb(0, 0, 0);
+}
